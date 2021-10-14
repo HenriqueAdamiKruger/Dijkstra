@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2021/09/30 19:50:06.946,=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/09/30 19:50:25.756,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Grafo.dproj=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2021/09/30 19:50:30.518,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.dfm=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/09/30 19:50:30.518,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/09/30 19:51:03.433,=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/09/30 19:51:20.145,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uConstantes.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/09/30 21:07:08.275,C:\Users\Escalasoft\Documents\Trabalho Grafos\uConstantes.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uConstantes.pas</Transaction>
-    <Transaction>2021/09/30 21:07:15.495,C:\Users\Escalasoft\Documents\Trabalho Grafos\uGrafo.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.pas</Transaction>
-    <Transaction>2021/09/30 21:07:15.495,C:\Users\Escalasoft\Documents\Trabalho Grafos\uGrafo.dfm=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.dfm</Transaction>
-    <Transaction>2021/10/01 07:58:18.788,C:\Users\Escalasoft\Documents\Trabalho Grafos\ProjetoGrafo.dproj=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Grafo.dproj</Transaction>
+	<Transactions>
+    <Transaction>2021/09/30 19:50:06.000.946,=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 19:50:25.000.756,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Grafo.dproj</Transaction>
+    <Transaction>2021/09/30 19:50:30.000.518,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.dfm</Transaction>
+    <Transaction>2021/09/30 19:50:30.000.518,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.pas</Transaction>
+    <Transaction>2021/09/30 19:51:03.000.433,=C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 19:51:20.000.145,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Escalasoft\Documents\RAD Studio\Projects\uConstantes.pas</Transaction>
+    <Transaction>2021/09/30 21:07:08.000.275,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uConstantes.pas=C:\Users\Escalasoft\Documents\Trabalho Grafos\uConstantes.pas</Transaction>
+    <Transaction>2021/09/30 21:07:15.000.495,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.dfm=C:\Users\Escalasoft\Documents\Trabalho Grafos\uGrafo.dfm</Transaction>
+    <Transaction>2021/09/30 21:07:15.000.495,C:\Users\Escalasoft\Documents\RAD Studio\Projects\uGrafo.pas=C:\Users\Escalasoft\Documents\Trabalho Grafos\uGrafo.pas</Transaction>
+    <Transaction>2021/10/01 07:58:18.000.788,C:\Users\Escalasoft\Documents\RAD Studio\Projects\Grafo.dproj=C:\Users\Escalasoft\Documents\Trabalho Grafos\ProjetoGrafo.dproj</Transaction>
   </Transactions>
 </BorlandProject>
