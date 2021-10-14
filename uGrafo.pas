@@ -230,6 +230,146 @@ begin
   FAresta[29].FVertice1 := FVertice[11];
   FAresta[29].FVertice2 := FVertice[22];
   FAresta[29].FValor := 65;
+
+  FAresta[30].FVertice1 := FVertice[11];
+  FAresta[30].FVertice2 := FVertice[19];
+  FAresta[30].FValor := 75;
+
+  FAresta[31].FVertice1 := FVertice[19];
+  FAresta[31].FVertice2 := FVertice[22];
+  FAresta[31].FValor := 60;
+
+  FAresta[32].FVertice1 := FVertice[19];
+  FAresta[32].FVertice2 := FVertice[24];
+  FAresta[32].FValor := 80;
+
+  FAresta[33].FVertice1 := FVertice[22];
+  FAresta[33].FVertice2 := FVertice[24];
+  FAresta[33].FValor := 65;
+
+  FAresta[34].FVertice1 := FVertice[22];
+  FAresta[34].FVertice2 := FVertice[23];
+  FAresta[34].FValor := 40;
+
+  FAresta[35].FVertice1 := FVertice[23];
+  FAresta[35].FVertice2 := FVertice[24];
+  FAresta[35].FValor := 35;
+
+  FAresta[36].FVertice1 := FVertice[24];
+  FAresta[36].FVertice2 := FVertice[25];
+  FAresta[36].FValor := 75;
+
+  FAresta[37].FVertice1 := FVertice[19];
+  FAresta[37].FVertice2 := FVertice[25];
+  FAresta[37].FValor := 75;
+
+  FAresta[38].FVertice1 := FVertice[18];
+  FAresta[38].FVertice2 := FVertice[25];
+  FAresta[38].FValor := 75;
+
+  FAresta[39].FVertice1 := FVertice[17];
+  FAresta[39].FVertice2 := FVertice[25];
+  FAresta[39].FValor := 255;
+
+  FAresta[40].FVertice1 := FVertice[18];
+  FAresta[40].FVertice2 := FVertice[19];
+  FAresta[40].FValor := 70;
+
+  FAresta[41].FVertice1 := FVertice[17];
+  FAresta[41].FVertice2 := FVertice[18];
+  FAresta[41].FValor := 210;
+
+  FAresta[42].FVertice1 := FVertice[18];
+  FAresta[42].FVertice2 := FVertice[26];
+  FAresta[42].FValor := 100;
+
+  FAresta[43].FVertice1 := FVertice[19];
+  FAresta[43].FVertice2 := FVertice[26];
+  FAresta[43].FValor := 210;
+
+  FAresta[44].FVertice1 := FVertice[12];
+  FAresta[44].FVertice2 := FVertice[19];
+  FAresta[44].FValor := 90;
+
+  FAresta[45].FVertice1 := FVertice[11];
+  FAresta[45].FVertice2 := FVertice[12];
+  FAresta[45].FValor := 200;
+
+  FAresta[46].FVertice1 := FVertice[10];
+  FAresta[46].FVertice2 := FVertice[12];
+  FAresta[46].FValor := 85;
+
+  FAresta[47].FVertice1 := FVertice[12];
+  FAresta[47].FVertice2 := FVertice[13];
+  FAresta[47].FValor := 320;
+
+  FAresta[48].FVertice1 := FVertice[10];
+  FAresta[48].FVertice2 := FVertice[26];
+  FAresta[48].FValor := 100;
+
+  FAresta[49].FVertice1 := FVertice[4];
+  FAresta[49].FVertice2 := FVertice[10];
+  FAresta[49].FValor := 100;
+
+  FAresta[50].FVertice1 := FVertice[4];
+  FAresta[50].FVertice2 := FVertice[12];
+  FAresta[50].FValor := 260;
+
+  FAresta[51].FVertice1 := FVertice[10];
+  FAresta[51].FVertice2 := FVertice[13];
+  FAresta[51].FValor := 95;
+
+  FAresta[52].FVertice1 := FVertice[13];
+  FAresta[52].FVertice2 := FVertice[26];
+  FAresta[52].FValor := 250;
+
+  FAresta[53].FVertice1 := FVertice[13];
+  FAresta[53].FVertice2 := FVertice[14];
+  FAresta[53].FValor := 95;
+
+  FAresta[54].FVertice1 := FVertice[14];
+  FAresta[54].FVertice2 := FVertice[26];
+  FAresta[54].FValor := 280;
+
+  FAresta[55].FVertice1 := FVertice[15];
+  FAresta[55].FVertice2 := FVertice[26];
+  FAresta[55].FValor := 200;
+
+  FAresta[56].FVertice1 := FVertice[16];
+  FAresta[56].FVertice2 := FVertice[26];
+  FAresta[56].FValor := 230;
+
+  FAresta[57].FVertice1 := FVertice[17];
+  FAresta[57].FVertice2 := FVertice[26];
+  FAresta[57].FValor := 210;
+
+  FAresta[58].FVertice1 := FVertice[15];
+  FAresta[58].FVertice2 := FVertice[17];
+  FAresta[58].FValor := 230;
+
+  FAresta[59].FVertice1 := FVertice[16];
+  FAresta[59].FVertice2 := FVertice[17];
+  FAresta[59].FValor := 190;
+
+  FAresta[60].FVertice1 := FVertice[15];
+  FAresta[60].FVertice2 := FVertice[16];
+  FAresta[60].FValor := 90;
+
+  FAresta[61].FVertice1 := FVertice[14];
+  FAresta[61].FVertice2 := FVertice[15];
+  FAresta[61].FValor := 250;
+
+  FAresta[62].FVertice1 := FVertice[14];
+  FAresta[62].FVertice2 := FVertice[16];
+  FAresta[62].FValor := 270;
+
+  FAresta[63].FVertice1 := FVertice[12];
+  FAresta[63].FVertice2 := FVertice[26];
+  FAresta[63].FValor := 75;
+
+  FAresta[64].FVertice1 := FVertice[0];
+  FAresta[64].FVertice2 := FVertice[1];
+  FAresta[64].FValor := 60;
 end;
 
 end.
